@@ -1,3 +1,4 @@
+# Version 2
 from abc import ABCMeta, abstractmethod
 from random import randint
 
